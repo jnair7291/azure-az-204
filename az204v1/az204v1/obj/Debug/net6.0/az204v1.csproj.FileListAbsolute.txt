@@ -24,3 +24,10 @@ D:\projects\azure-az-204\az204v1\az204v1\obj\Debug\net6.0\refint\az204v1.dll
 D:\projects\azure-az-204\az204v1\az204v1\obj\Debug\net6.0\az204v1.pdb
 D:\projects\azure-az-204\az204v1\az204v1\obj\Debug\net6.0\az204v1.genruntimeconfig.cache
 D:\projects\azure-az-204\az204v1\az204v1\obj\Debug\net6.0\ref\az204v1.dll
+D:\projects\azure-az-204\az204v1\az204v1\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\projects\azure-az-204\az204v1\az204v1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\projects\azure-az-204\az204v1\az204v1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\projects\azure-az-204\az204v1\az204v1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\projects\azure-az-204\az204v1\az204v1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projects\azure-az-204\az204v1\az204v1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projects\azure-az-204\az204v1\az204v1\obj\Debug\net6.0\az204v1.csproj.CopyComplete

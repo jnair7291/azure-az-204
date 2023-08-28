@@ -1,25 +1,29 @@
 ﻿using az204v1.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using az204v1.DBService;
 
 namespace az204v1.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly UserService _userService;
+        public HomeController(ILogger<HomeController> logger , UserService userService)
         {
             _logger = logger;
+            _userService = userService;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var users = _userService.GetUser();
+            return View(users);
         }
 
         public IActionResult Privacy()
         {
+            
             return View();
         }
 
